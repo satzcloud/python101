@@ -31,3 +31,11 @@ j = str(3.01)
 # Print as array of variables hence we are using []
 print ([a,b,c,c1,d,e,f,g,h,i,j])
 
+# Datatypes and variables exercise
+item_name = 'orange'
+price = float(25.50)
+stock = str('In Stock')
+is_available = True
+
+print(item_name, price, stock, is_available)
+
